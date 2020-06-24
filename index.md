@@ -14,3 +14,5 @@ Fox Mulder ist ein FBI Agent welcher sich um außergewöhnliche Fälle kümmert.
 Wie Fox Mulder sagte:
 >Ich habe das Leben auf diesem Planeten gesehen Scully,
 >und das ist der Grund, warum ich woanders suche!
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/60/Mulder2016.png"/>
