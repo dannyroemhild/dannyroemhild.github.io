@@ -10,3 +10,7 @@ Fox Mulder ist ein FBI Agent welcher sich um außergewöhnliche Fälle kümmert.
 * Vorgesetzer: Walter Skinner
 * Beste Freunde: die Lone Gunmen
 * Feinde: Alex Krycek, Cigarette-Smoking Man (CGB Spender)
+
+Wie Fox Mulder sagte:
+>Ich habe das Leben auf diesem Planeten gesehen Scully,
+>und das ist der Grund, warum ich woanders suche!
